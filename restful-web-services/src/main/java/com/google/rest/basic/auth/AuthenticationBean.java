@@ -1,4 +1,4 @@
-package com.google.rest.basic.auth;
+package com.google.rest.basic.auth; 
 
 public class AuthenticationBean {
 private String msg;
